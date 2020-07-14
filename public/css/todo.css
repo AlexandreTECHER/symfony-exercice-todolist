@@ -1,0 +1,13 @@
+.list-group-item .task__delete {
+	float: right;
+}
+.list-group-item .task__edit {
+	display: inline;
+}
+.list-group-item:hover {
+	background-color: aliceblue;
+}
+.glyphicon {
+	font-size: 1.4em;
+	vertical-align: text-bottom;
+}
